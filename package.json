@@ -3,14 +3,8 @@
   "version": "1.0.0",
   "description": "n8n workflow automation on Railway",
   "main": "index.js",
-  "scripts": {
-    "start": "N8N_EDITION=community n8n start"
-  },
   "engines": {
     "node": ">=18.0.0"
-  },
-  "dependencies": {
-    "n8n": "^1.70.0"
   },
   "keywords": [
     "n8n",
