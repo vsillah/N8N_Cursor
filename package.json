@@ -1,0 +1,22 @@
+{
+  "name": "n8n-deployment",
+  "version": "1.0.0",
+  "description": "n8n workflow automation on Railway",
+  "main": "index.js",
+  "scripts": {
+    "start": "n8n start"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "n8n": "^2.1.4"
+  },
+  "keywords": [
+    "n8n",
+    "automation",
+    "workflow"
+  ],
+  "author": "",
+  "license": "ISC"
+}
